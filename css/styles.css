@@ -168,12 +168,12 @@ button:hover {
 
 footer {
   text-align: center;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 footer a {
   color: darkgrey;
-  margin: 0 12px;
+  margin: 0 10px;
 }
 
 footer a:hover {
@@ -181,7 +181,8 @@ footer a:hover {
 }
 
 footer p {
-  margin-top: 18px;
+  font-size: 0.95rem;
+  margin-top: 12px;
   margin-bottom: 0;
 }
 
